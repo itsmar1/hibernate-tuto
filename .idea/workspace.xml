@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2e4814-96f0-40cf-a306-e83573f2e97b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/UpdateStudentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/DeleteStudentDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +51,9 @@
       <recent name="com.luv2code.hibernate.demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UpdateStudentDemo">
-    <configuration name="CreateStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.CreateStudentDemo" />
+  <component name="RunManager" selected="Application.DeleteStudentDemo">
+    <configuration name="DeleteStudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.hibernate.demo.DeleteStudentDemo" />
       <module name="hibernate-tuto" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteStudentDemo" />
         <item itemvalue="Application.UpdateStudentDemo" />
         <item itemvalue="Application.QueryStudentDemo" />
         <item itemvalue="Application.ReadStudentDemo" />
         <item itemvalue="Application.PrimaryKeyDemo" />
-        <item itemvalue="Application.CreateStudentDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656537502421</updated>
       <workItem from="1656537505740" duration="7041000" />
-      <workItem from="1656585194573" duration="10008000" />
+      <workItem from="1656585194573" duration="10996000" />
     </task>
     <servers />
   </component>
