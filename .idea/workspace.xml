@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d2e4814-96f0-40cf-a306-e83573f2e97b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/hibernate/demo/QueryStudentDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656537502421</updated>
       <workItem from="1656537505740" duration="7041000" />
-      <workItem from="1656585194573" duration="7626000" />
+      <workItem from="1656585194573" duration="8681000" />
     </task>
     <servers />
   </component>
